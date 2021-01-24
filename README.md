@@ -20,7 +20,7 @@ De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'prin
 
 De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van de emailadres. Na het aanmelden wordt de user ontvangen in een dashboard, zodat het duidelijk is dat hij ingelogd is. Na het aanmelden kan hij al zijn gegevens opvragen, wijzigen,zijn account verwijderen en ook downloaden in een csv file.
 
-In de scope van het project hebben we mailtrap gebruikt om de mail te sturen en ontvangen. <b>Een probleem die kan voorkomen bij de registratie is dat het mail in bij spams word</b> gezegd.
+In de scope van het project hebben we mailtrap gebruikt om de mail te sturen en ontvangen. <b>Een probleem die kan voorkomen bij de registratie is dat het mail  bij spams word gezet</b> 
 
 <h3>Maatregelen tegen de courante aanvallen</h3>
     Laravel framework <br>
@@ -30,6 +30,7 @@ In de scope van het project hebben we mailtrap gebruikt om de mail te sturen en 
     - rectificatie, <br>
     - wissen van account, <br>
     - gegevensoverdraagbaarheid in een csv file downloaden,
+    - bezwaar
     <br>
  <h3> Bescherming persoonlijke gegevens: </h3>
  <p>Deze website is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. Ook maakt deze website enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring.</p> <br>
