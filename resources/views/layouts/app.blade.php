@@ -58,6 +58,9 @@
                                 </a>
 
                                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="{{route('profile')}}">
+                                Profile
+                            </a>
                                     <a class="dropdown-item" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
@@ -72,12 +75,17 @@
                         @endguest
                     </ul>
                 </div>
+                
             </div>
         </nav>
 
         <main class="py-4">
             @yield('content')
+            
         </main>
+    </div>
+    <div class="container"> 
+    @include('partials.footer_partials')
     </div>
 </body>
 </html>
