@@ -18,6 +18,21 @@
             body {
                 font-family: 'Nunito';
             }
+            .cookiebanner {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background: rgb(255, 255, 255);
+        padding: 0.5%;
+        text-align: center;
+    }
+
+    .js-cookie-consent-agree {
+        margin-left: 3%;
+        background-color: rgb(26, 32, 44);
+        color: white;
+        padding: 1% 3% 1% 3%
+    }
         </style>
     </head>
     <body class="antialiased">
@@ -35,7 +50,9 @@
                     @endauth
                 </div>
             @endif
-
+            <div class="cookiebanner">
+            @include('cookieConsent::index')
+    </div>
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">

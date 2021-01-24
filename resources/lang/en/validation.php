@@ -118,7 +118,7 @@ return [
     'uploaded' => 'The :attribute failed to upload.',
     'url' => 'The :attribute format is invalid.',
     'uuid' => 'The :attribute must be a valid UUID.',
-
+    'validation.pwned' => 'Your password has been pwned! Please use a new one!',
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
