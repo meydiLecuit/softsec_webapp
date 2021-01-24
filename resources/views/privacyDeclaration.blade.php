@@ -25,7 +25,7 @@ terms and conditions apply.</p>
 
 
 <p>By using our website and our mobile applications or by using the products and services offered by 
-by this site or by taking part in our promotions, you expressly agree to the way in which Carrefour Belgium collects and processes personal data.</p> 
+by this site or by taking part in our promotions, you expressly agree to the way in which we collects and processes personal data.</p> 
 collects and processes personal data.</p>
 
 <h1>1. De verwerking van de persoonsgegevens</h1>
@@ -38,7 +38,7 @@ whether or not carried out by automated means, such as collection, recording, or
 or alter, retrieve, consult, use, disclose by transmission, disseminate or otherwise make available, align or combine 
 make available, align or combine, screen, erase or destroy Data.</p>
 
-<p>The controller of the processing of your Data is Adil El Ghamarti student of Applied Informatics at the 
+<p>The controller of the processing of your Data is Meydi Lecuit student of Applied Informatics at the 
 Erasmushogeschool Brussel. </p>
 
 <h1>2. Security and confidentiality</h1>
@@ -62,36 +62,36 @@ process your Data in a way incompatible with those purposes. Carrefour Belgium m
 
 The legal grounds on which we may proceed to process your Data are as follows:
 
-<h1>5. Your rights</h1>.
 
 
-<h1>6. Cookies and other technologies</h1>.
+
+<h1>5. Cookies and other technologies</h1>.
 
 <Cookies are small text files which are placed on your computer when you visit a website. They store your preferences and 
 data so you do not have to enter the same information over and over again. Cookies ensure that you save time and enjoy a personalized browsing experience.
 experience. And that without compromising your privacy. You can choose for yourself which cookies you allow. Go to 
-to our cookie page to find out more. <p>
-<h1>7. Log files</h1>
+to our cookie page to find out more. </p>
+<h1>6. Log files</h1>
 <p>In addition to the data mentioned above, we also record data when you visit the website in the form of 
 log files which record the activity of the websites (e.g.: your IP address and the date and time you visited each page). 
 visited each page). This information is only collected for statistical purposes and to continue improving the website.<p>
 
-<h1>8. Retention Period</h1>.
+<h1>7. Retention Period</h1>.
 
 <p>We will only keep your Data for as long as we are required to keep it for the purposes of any legal obligation or as long as we
  effectively serve you in accordance with this Privacy Policy and the purposes for which it was collected. In this context 
  an annual evaluation takes place by Carrefour Belgium. Of course, you always have the right to invoke your rights as explained above. 
  <p>
 
-<h1>9. Risks related to the use of the internet and online applications</h1>
+<h1>8. Risks related to the use of the internet and online applications</h1>
 
 <The use of our websites, mobile applications and online services and products implies the knowledge and acceptance of the 
 characteristics and limitations of the Internet, in particular with regard to technical performance, response time for consulting, retrieving or sending information 
 consult, retrieve or transmit information, the risks of interruption, and more generally, the risks inherent 
 to all connections and transmissions on the Internet, the lack of protection of certain data against possible misuse and 
-the risks of possible viruses circulating on the network.<p>
+the risks of possible viruses circulating on the network.</p>
 
-<h1>10. Changes</h1>
+<h1>9. Changes</h1>
 
 <p>We reserve the right to modify the statement "Protection of private life". This statement was last 
 modified and reviewed on 19.12.2020. <p>
