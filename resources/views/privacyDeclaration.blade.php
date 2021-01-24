@@ -67,7 +67,7 @@ The legal grounds on which we may proceed to process your Data are as follows:
 
 <h1>5. Cookies and other technologies</h1>.
 
-<Cookies are small text files which are placed on your computer when you visit a website. They store your preferences and 
+<p>Cookies are small text files which are placed on your computer when you visit a website. They store your preferences and 
 data so you do not have to enter the same information over and over again. Cookies ensure that you save time and enjoy a personalized browsing experience.
 experience. And that without compromising your privacy. You can choose for yourself which cookies you allow. Go to 
 to our cookie page to find out more. </p>
@@ -85,7 +85,7 @@ visited each page). This information is only collected for statistical purposes 
 
 <h1>8. Risks related to the use of the internet and online applications</h1>
 
-<The use of our websites, mobile applications and online services and products implies the knowledge and acceptance of the 
+<p>The use of our websites, mobile applications and online services and products implies the knowledge and acceptance of the 
 characteristics and limitations of the Internet, in particular with regard to technical performance, response time for consulting, retrieving or sending information 
 consult, retrieve or transmit information, the risks of interruption, and more generally, the risks inherent 
 to all connections and transmissions on the Internet, the lack of protection of certain data against possible misuse and 
