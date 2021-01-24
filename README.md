@@ -16,7 +16,7 @@ iedere respons bevat een Strict-Transport-Security header
 het gebruikte domein staat in de HSTS preload list of wacht op toevoeging.
 
 <h3> Registratie & Aanmelden: </h3>
-De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'printable' ASCII karakters worden aanvaard in het wachtwoord. Het wachtwoord moet uit minstens 7 karakters bestaan.Na een mislukte login poging moet het gebruiker 60 seconde wachten. De webtoepassing maakt gebruik van de HIBP api die wachtwoorden dat meer dan 300 keer als has been pwned markeert weigert. De user moet bij registratie een emailadres opgeven en deze moet bevestigt worden door de user vooraleer deze toegang krijgt tot de webtoepassing. Ten slotte maakt Laravel gebruik van Bcrypt met een salt om het wachtwoord op te slaan. <br>
+De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'printable' ASCII karakters worden aanvaard in het wachtwoord. Het wachtwoord moet uit minstens 7 karakters bestaan.Na een mislukte login poging moet het gebruiker 60 seconde wachten. De webtoepassing maakt gebruik van de HIBP api die wachtwoorden dat meer dan 300 keer als has been pwned markeert weigert. De user moet bij registratie een emailadres opgeven en deze moet bevestigt worden door de user vooraleer deze toegang krijgt tot de webtoepassing. Ten slotte maakt Laravel gebruik van Bcrypt met een salt om het wachtwoord op te slaan. Na het aanmelding kan het gebruiker bovenaan rechts zien dat hij ingelogd is en hij kan daar ook zijn profiel bekijken of uitmelden.  <br>
 
 De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van de emailadres. Na het aanmelden wordt de user ontvangen in een dashboard, zodat het duidelijk is dat hij ingelogd is. Na het aanmelden kan hij al zijn gegevens opvragen, wijzigen,zijn account verwijderen en ook downloaden in een csv file.
 
@@ -33,7 +33,7 @@ In de scope van het project hebben we mailtrap gebruikt om de mail te sturen en 
     - bezwaar
     <br>
  <h3> Bescherming persoonlijke gegevens: </h3>
- <p>Deze website is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. Ook maakt deze website enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring.</p> <br>
+ <p>Deze website is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. Ook maakt deze website enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring. </p> <br>
 <h1>Verwerkingsregister: </h1>
 <h3>1) Contactgegegevens </h3>
 -Contact persoon: Meydi Lecuit  <br>
